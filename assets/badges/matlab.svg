@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="34" viewBox="0 0 110 34" role="img" aria-label="MATLAB">
-<rect width="110" height="34" rx="6" fill="#176B8C"/>
-<rect width="37" height="34" rx="6" fill="#000" opacity=".17"/>
-<path d="M31 0h6v34h-6z" fill="#000" opacity=".17"/>
-<g fill="#fff" font-family="Arial, sans-serif" text-anchor="middle"><text x="18.5" y="22" font-size="12" font-weight="700">M</text><text x="73.5" y="22" font-size="13" font-weight="600">MATLAB</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="20" role="img" aria-label="MATLAB"><title>MATLAB</title><g shape-rendering="crispEdges"><rect width="0" height="20" fill="#0076a8"/><rect x="0" width="55" height="20" fill="#0076a8"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="275" y="140" textLength="450" transform="scale(.1)">MATLAB</text></g></svg>

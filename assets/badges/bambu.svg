@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="127" height="34" viewBox="0 0 127 34" role="img" aria-label="Bambu Lab">
-<rect width="127" height="34" rx="6" fill="#22865F"/>
-<rect width="37" height="34" rx="6" fill="#000" opacity=".17"/>
-<path d="M31 0h6v34h-6z" fill="#000" opacity=".17"/>
-<g fill="#fff" font-family="Arial, sans-serif" text-anchor="middle"><text x="18.5" y="22" font-size="12" font-weight="700">B</text><text x="82.0" y="22" font-size="13" font-weight="600">Bambu Lab</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="20" role="img" aria-label="Bambu Lab"><title>Bambu Lab</title><g shape-rendering="crispEdges"><rect width="0" height="20" fill="#00ae42"/><rect x="0" width="73" height="20" fill="#00ae42"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="365" y="140" textLength="630" transform="scale(.1)">Bambu Lab</text></g></svg>

@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="34" viewBox="0 0 110 34" role="img" aria-label="Fusion">
-<rect width="110" height="34" rx="6" fill="#B45C22"/>
-<rect width="37" height="34" rx="6" fill="#000" opacity=".17"/>
-<path d="M31 0h6v34h-6z" fill="#000" opacity=".17"/>
-<g fill="#fff" font-family="Arial, sans-serif" text-anchor="middle"><text x="18.5" y="22" font-size="12" font-weight="700">F</text><text x="73.5" y="22" font-size="13" font-weight="600">Fusion</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="20" role="img" aria-label="Fusion"><title>Fusion</title><g shape-rendering="crispEdges"><rect width="0" height="20" fill="#ff6d00"/><rect x="0" width="45" height="20" fill="#ff6d00"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="225" y="140" textLength="350" transform="scale(.1)">Fusion</text></g></svg>
