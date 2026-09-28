@@ -8,7 +8,7 @@ I turn sensing ideas into working systems — from **signal analysis and localiz
 
 | Project | My contribution |
 | :--- | :--- |
-| **[Mobile audio sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>Single-microphone signal processing | Designed and tuned single-microphone noise filters in MATLAB and integrated signal processing into a real-time mobile application. |
+| **[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>Signal analysis & mobile systems | Worked on heart-sound analysis in MATLAB, mobile application development, and sensing prototypes. |
 | **[CardioLoc](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardioloc.md)**<br>VIO-based localization | Transformed VIO poses into measurement-point coordinates, aligned coordinate frames and timestamps, and built position-error evaluation. |
 | **[PCWP](https://github.com/Ontheway-01/portfolio/blob/main/projects/pcwp.md)**<br>Multi-device sensing | Built Ring–Watch–Phone acquisition with device commands, acknowledgements, binary packet parsing, and collection-state management. |
 

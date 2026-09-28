@@ -8,8 +8,8 @@ I connect **signal processing, mobile systems, and physical prototyping**. My re
 
 ## 01 / Research
 
-**[Mobile audio sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>
-Single-microphone signal processing: filter design, tuning, and real-time mobile integration.
+**[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>
+Heart-sound analysis in MATLAB, mobile application development, and sensing prototypes.
 
 **[CardioLoc](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardioloc.md)**<br>
 VIO-based localization, coordinate transforms, and position-error evaluation.
@@ -20,7 +20,7 @@ Ring–Watch–Phone communication, sensor logging, and collection-state managem
 ## 02 / How I build
 
 **ANALYZE** &nbsp; MATLAB · Python<br>
-Single-microphone audio processing, spectral analysis, and signal evaluation.
+Signal analysis, processing, and evaluation.
 
 **FABRICATE** &nbsp; Fusion · Bambu Lab<br>
 3D modeling and printing for physical sensing prototypes.
