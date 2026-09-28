@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Eunhwa Lee — signals, systems, prototypes</title>
+<desc id="desc">Cream and forest green research banner with orange details, a signal trace, and a wireframe prototype.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e8e4d9" opacity=".16"/></pattern></defs>
+<rect width="1200" height="350" rx="14" fill="#F4F0E7"/>
+<path d="M720 0h466q14 0 14 14v322q0 14-14 14H720z" fill="#203F39"/>
+<path d="M720 0h466q14 0 14 14v322q0 14-14 14H720z" fill="url(#dots)"/>
+<rect x="48" y="43" width="36" height="6" rx="3" fill="#CC633A"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="100" y="51" fill="#526057" font-size="12" letter-spacing="2">RESEARCH / ENGINEERING / MAKING</text>
+<text x="45" y="148" fill="#203F39" font-size="80" font-weight="700" letter-spacing="-3">EUNHWA LEE</text>
+<text x="50" y="202" fill="#526057" font-size="23">Signals. Systems. Prototypes.</text>
+<line x1="50" y1="246" x2="652" y2="246" stroke="#CBCDC0"/>
+<text x="50" y="282" fill="#526057" font-size="14">HCSLAB · Chung-Ang University</text>
+<text x="50" y="310" fill="#526057" font-size="12" letter-spacing="1.2">MATLAB + MOBILE SYSTEMS + FABRICATION</text>
+<text x="760" y="313" fill="#DAE0D4" font-size="12" letter-spacing="2">MEASURE → BUILD → EXPLORE</text>
+</g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M761 136h33l15-29 22 63 27-100 26 84 20-18h27" stroke="#E9A37B" stroke-width="3"/>
+<path d="M998 133l68-38 70 39-68 40z M998 133v79l70 40 68-40v-78 M1068 174v78" stroke="#DBE3D7" stroke-width="2"/>
+<path d="M998 212l68-39 70 39 M1066 95v78" stroke="#DBE3D7" stroke-width="1.5" stroke-dasharray="4 6" opacity=".4"/>
+<circle cx="963" cy="188" r="108" stroke="#AEC3AF" opacity=".22"/>
+<path d="M901 250l58-13 37 19" stroke="#E9A37B" stroke-width="2"/>
+</g>
+<circle cx="959" cy="237" r="5" fill="#E9A37B"/>
+</svg>
