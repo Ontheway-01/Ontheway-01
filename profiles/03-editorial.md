@@ -11,11 +11,11 @@ I connect **signal processing, mobile systems, and physical prototyping**. My re
 **[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>
 Heart-sound analysis in MATLAB, mobile application development, and sensing prototypes.
 
-**[CardioLoc](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardioloc.md)**<br>
-VIO-based localization, coordinate transforms, and position-error evaluation.
+**Mobile localization · Ongoing research**<br>
+Exploring mobile localization through prototyping and data analysis.
 
-**[PCWP](https://github.com/Ontheway-01/portfolio/blob/main/projects/pcwp.md)**<br>
-Ring–Watch–Phone communication, sensor logging, and collection-state management.
+**Wearable data collection · Ongoing research**<br>
+Developing mobile–wearable connectivity and sensor-data collection functions.
 
 ## 02 / How I build
 
