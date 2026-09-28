@@ -9,13 +9,13 @@ I work on **mobile sensing, signal processing, and visual-inertial localization*
 ### Research
 
 **[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>
-Heart-sound analysis in MATLAB, mobile application development, and sensing prototypes.
+Smartphone-based heart-sound acquisition and analysis, combining signal processing with mobile sensing prototypes.
 
-**Mobile localization · Ongoing research**<br>
-Exploring mobile localization through prototyping and data analysis.
+**Mobile localization**<br>
+Mobile position tracking using camera and motion-sensor data, with a focus on measurement consistency.
 
-**Wearable data collection · Ongoing research**<br>
-Developing mobile–wearable connectivity and sensor-data collection functions.
+**Wearable data collection**<br>
+Sensor-data collection across mobile and wearable devices, focusing on connectivity, time alignment, and coordinated recording.
 
 ### Education & experience
 

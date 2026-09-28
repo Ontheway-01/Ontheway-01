@@ -6,11 +6,11 @@ I turn sensing ideas into working systems — from **signal analysis and localiz
 
 ### 🔬 Selected research
 
-| Project | My contribution |
+| Project | Research focus |
 | :--- | :--- |
-| **[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>Signal analysis & mobile systems | Worked on heart-sound analysis in MATLAB, mobile application development, and sensing prototypes. |
-| **Mobile localization**<br>Ongoing research | Exploring mobile localization through prototyping and data analysis. |
-| **Wearable data collection**<br>Ongoing research | Developing mobile–wearable connectivity and sensor-data collection functions. |
+| **[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)** | Smartphone-based heart-sound acquisition and analysis, combining signal processing with mobile sensing prototypes. |
+| **Mobile localization** | Mobile position tracking using camera and motion-sensor data, with a focus on measurement consistency. |
+| **Wearable data collection** | Sensor-data collection across mobile and wearable devices, focusing on connectivity, time alignment, and coordinated recording. |
 
 ### 🧰 Research & making
 
