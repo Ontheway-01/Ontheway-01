@@ -28,15 +28,13 @@ Android / Wear OS · FastAPI · Firebase · Supabase
 
 ### 🛠 Selected projects & code
 
-| Project | What I worked on | Repository |
-| :--- | :--- | :--- |
-| **[Wakie-Talkie](https://github.com/Ontheway-01/portfolio/blob/main/projects/wakie-talkie.md)** | Planning, Swift app, Django backend, XTTS-v2 selection and GPU inference; speech endpoint detection and playback | [iOS fork](https://github.com/Ontheway-01/Wakie-Talkie-frontend) · [Backend](https://github.com/Wakie-Talkie/Wakie-Talkie-Backend) · [TTS integration](https://github.com/Wakie-Talkie/Wakie-Talkie-TTS/tree/Wakie-Talkie-use-TTS) |
-| **[CoolCoolCoffee](https://github.com/Ontheway-01/portfolio/blob/main/projects/coolcoolcoffee.md)** | Planning, literature review, Flutter development, OCR parsing and menu matching | [Fork](https://github.com/Ontheway-01/CoolCoolCoffee) · [Team](https://github.com/CoolCoolCoffee/CoolCoolCoffee) |
-| **[CAUSW](https://github.com/Ontheway-01/portfolio/blob/main/projects/causw.md)** | Next.js / React contributions to posts, comments, voting, and API-driven UI state | [Fork](https://github.com/Ontheway-01/CAUSW_frontend_V2) · [Team](https://github.com/CAUCSE/CAUSW_frontend_V2) |
-| **[Welcome-git](https://github.com/Ontheway-01/portfolio/blob/main/projects/welcome-git.md)** | C# desktop Git client; branch management, commit history, and process output handling | [Fork](https://github.com/Ontheway-01/Welcome-git) · [Team](https://github.com/so0-biin/Welcome-git) |
-| **[느릿 · Neurit](https://github.com/Ontheway-01/portfolio/blob/main/projects/neurit.md)** | Personal iOS travel journal with location, photos, and receipt OCR; AI-assisted MVP development | [Repository](https://github.com/Ontheway-01/neurit-travel) |
-
-<sub>Team-project forks preserve the original project history. Linked case studies describe my own contributions.</sub>
+| Project | What I worked on |
+| :--- | :--- |
+| **[Wakie-Talkie](https://github.com/Ontheway-01/Wakie-Talkie-frontend)** | Planning, Swift app, Django backend, XTTS-v2 selection and GPU inference; speech endpoint detection and playback |
+| **[CoolCoolCoffee](https://github.com/Ontheway-01/CoolCoolCoffee)** | Planning, literature review, Flutter development, OCR parsing and menu matching |
+| **[CAUSW](https://github.com/Ontheway-01/CAUSW_frontend_V2)** | Next.js / React contributions to posts, comments, voting, and API-driven UI state |
+| **[Welcome-git](https://github.com/Ontheway-01/Welcome-git)** | C# desktop Git client; branch management, commit history, and process output handling |
+| **[느릿 · Neurit](https://github.com/Ontheway-01/neurit-travel)** | Personal iOS travel journal with location, photos, and receipt OCR; AI-assisted MVP development |
 
 ### 📄 Selected publication
 
