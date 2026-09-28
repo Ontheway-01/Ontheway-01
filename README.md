@@ -13,13 +13,21 @@ I turn sensing ideas into working systems — from **signal analysis and localiz
 
 ### 🧰 Tech stack
 
-**Languages:** &nbsp; <img src="assets/badges/python.svg" height="22" alt="Python"> <img src="assets/badges/kotlin.svg" height="22" alt="Kotlin"> <img src="assets/badges/swift.svg" height="22" alt="Swift"> <img src="assets/badges/dart.svg" height="22" alt="Dart"> <img src="assets/badges/typescript.svg" height="22" alt="TypeScript"> <img src="assets/badges/csharp.svg" height="22" alt="C#">
+**Languages:** &nbsp; <img src="assets/badges/python.svg" height="22" alt="Python"> <img src="assets/badges/c.svg" height="22" alt="C"> <img src="assets/badges/cpp.svg" height="22" alt="C++"> <img src="assets/badges/csharp.svg" height="22" alt="C#"> <img src="assets/badges/java.svg" height="22" alt="Java"> <img src="assets/badges/javascript.svg" height="22" alt="JavaScript"> <img src="assets/badges/typescript.svg" height="22" alt="TypeScript"> <img src="assets/badges/swift.svg" height="22" alt="Swift"> <img src="assets/badges/kotlin.svg" height="22" alt="Kotlin"> <img src="assets/badges/dart.svg" height="22" alt="Dart"> <img src="assets/badges/go.svg" height="22" alt="Go">
 
-**Mobile & Web:** &nbsp; <img src="assets/badges/android.svg" height="22" alt="Android"> <img src="assets/badges/wearos.svg" height="22" alt="Wear OS"> <img src="assets/badges/flutter.svg" height="22" alt="Flutter"> <img src="assets/badges/react.svg" height="22" alt="React"> <img src="assets/badges/nextjs.svg" height="22" alt="Next.js">
+**AI & Signal:** &nbsp; <img src="assets/badges/matlab.svg" height="22" alt="MATLAB"> <img src="assets/badges/pytorch.svg" height="22" alt="PyTorch"> <img src="assets/badges/numpy.svg" height="22" alt="NumPy"> <img src="assets/badges/scipy.svg" height="22" alt="SciPy"> <img src="assets/badges/pandas.svg" height="22" alt="pandas"> <img src="assets/badges/librosa.svg" height="22" alt="librosa"> <img src="assets/badges/opencv.svg" height="22" alt="OpenCV">
 
-**Backend & Data:** &nbsp; <img src="assets/badges/django.svg" height="22" alt="Django"> <img src="assets/badges/fastapi.svg" height="22" alt="FastAPI"> <img src="assets/badges/firebase.svg" height="22" alt="Firebase"> <img src="assets/badges/supabase.svg" height="22" alt="Supabase">
+**Mobile:** &nbsp; <img src="assets/badges/ios.svg" height="22" alt="iOS"> <img src="assets/badges/android.svg" height="22" alt="Android"> <img src="assets/badges/wearos.svg" height="22" alt="Wear OS"> <img src="assets/badges/swiftui.svg" height="22" alt="SwiftUI"> <img src="assets/badges/flutter.svg" height="22" alt="Flutter"> <img src="assets/badges/reactnative.svg" height="22" alt="React Native"> <img src="assets/badges/expo.svg" height="22" alt="Expo">
 
-**Research & Making:** &nbsp; <img src="assets/badges/matlab.svg" height="22" alt="MATLAB"> <img src="assets/badges/fusion.svg" height="22" alt="Fusion"> <img src="assets/badges/bambu.svg" height="22" alt="Bambu Lab">
+**Web & Desktop:** &nbsp; <img src="assets/badges/react.svg" height="22" alt="React"> <img src="assets/badges/nextjs.svg" height="22" alt="Next.js"> <img src="assets/badges/tailwind.svg" height="22" alt="Tailwind CSS"> <img src="assets/badges/winforms.svg" height="22" alt="Windows Forms">
+
+**Backend:** &nbsp; <img src="assets/badges/django.svg" height="22" alt="Django"> <img src="assets/badges/fastapi.svg" height="22" alt="FastAPI"> <img src="assets/badges/nodejs.svg" height="22" alt="Node.js"> <img src="assets/badges/express.svg" height="22" alt="Express">
+
+**Data & Cloud:** &nbsp; <img src="assets/badges/firebase.svg" height="22" alt="Firebase"> <img src="assets/badges/supabase.svg" height="22" alt="Supabase"> <img src="assets/badges/mongodb.svg" height="22" alt="MongoDB"> <img src="assets/badges/elasticsearch.svg" height="22" alt="Elasticsearch"> <img src="assets/badges/awsec2.svg" height="22" alt="AWS EC2">
+
+**Tools & Build:** &nbsp; <img src="assets/badges/git.svg" height="22" alt="Git"> <img src="assets/badges/linux.svg" height="22" alt="Linux"> <img src="assets/badges/docker.svg" height="22" alt="Docker"> <img src="assets/badges/cmake.svg" height="22" alt="CMake">
+
+**3D Printing:** &nbsp; <img src="assets/badges/fusion.svg" height="22" alt="Fusion"> <img src="assets/badges/bambu.svg" height="22" alt="Bambu Lab">
 
 ### 🛠 Selected projects & code
 
