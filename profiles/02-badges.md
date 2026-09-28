@@ -30,7 +30,7 @@ Android / Wear OS · FastAPI · Firebase · Supabase
 
 | Project | What I worked on |
 | :--- | :--- |
-| **[Wakie-Talkie](https://github.com/Ontheway-01/Wakie-Talkie-frontend)** | Planning, Swift app, Django backend, XTTS-v2 selection and GPU inference; speech endpoint detection and playback |
+| **[Wakie-Talkie](https://github.com/Ontheway-01/Wakie-Talkie)** | Planning, Swift app, Django backend, XTTS-v2 selection and GPU inference; speech endpoint detection and playback |
 | **[CoolCoolCoffee](https://github.com/Ontheway-01/CoolCoolCoffee)** | Planning, literature review, Flutter development, OCR parsing and menu matching |
 | **[CAUSW](https://github.com/Ontheway-01/CAUSW_frontend_V2)** | Next.js / React contributions to posts, comments, voting, and API-driven UI state |
 | **[Welcome-git](https://github.com/Ontheway-01/Welcome-git)** | C# desktop Git client; branch management, commit history, and process output handling |

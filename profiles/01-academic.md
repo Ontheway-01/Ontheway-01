@@ -38,7 +38,7 @@ Sensor-data collection across mobile and wearable devices, focusing on connectiv
 
 ### Projects
 
-- **[Wakie-Talkie](https://github.com/Ontheway-01/portfolio/blob/main/projects/wakie-talkie.md)** — Swift · Django · STT / dialogue / TTS
+- **[Wakie-Talkie](https://github.com/Ontheway-01/Wakie-Talkie)** — Swift · Django · STT / dialogue / TTS
 - **[CoolCoolCoffee](https://github.com/Ontheway-01/portfolio/blob/main/projects/coolcoolcoffee.md)** — Flutter · OCR-to-menu matching · caffeine/sleep features
 - **[CAUSW](https://github.com/Ontheway-01/portfolio/blob/main/projects/causw.md)** — Next.js · posts, comments, and voting flows
 - **[Welcome-git](https://github.com/Ontheway-01/portfolio/blob/main/projects/welcome-git.md)** — C# · Git GUI · branch management and commit history
