@@ -1,10 +1,8 @@
 <img src="../assets/editorial-header.svg" width="100%" alt="Eunhwa Lee — Signals. Systems. Prototypes.">
 
-<p><b>이은화 · Eunhwa Lee</b> &nbsp; / &nbsp; M.S. student, Chung-Ang University · HCSLAB</p>
+<p><b>이은화 · Eunhwa Lee</b> &nbsp; / &nbsp; M.S. student, Chung-Ang University · <a href="https://hcslab.cau.ac.kr/">HCSLAB</a></p>
 
 I connect **signal processing, mobile systems, and physical prototyping**. My research spans acoustic sensing, VIO-based localization, and communication between wearable devices.
-
-[HCSLAB](https://hcslab.cau.ac.kr/) · [Email](mailto:eunhwa813@cau.ac.kr)
 
 ## 01 / Research
 

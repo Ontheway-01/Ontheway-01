@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Eunhwa 👋</h1>
-<p align="center"><b>Signal processing · VIO localization · Mobile & wearable systems</b><br>M.S. student at Chung-Ang University · HCSLAB</p>
-<p align="center"><a href="https://hcslab.cau.ac.kr/">Lab</a> &nbsp;·&nbsp; <a href="mailto:eunhwa813@cau.ac.kr">Email</a></p>
+<p align="center"><b>Signal processing · VIO localization · Mobile & wearable systems</b><br>M.S. student at Chung-Ang University · <a href="https://hcslab.cau.ac.kr/">HCSLAB</a></p>
 
 I turn sensing ideas into working systems — from **signal analysis and localization** to **physical prototypes and connected devices**.
 

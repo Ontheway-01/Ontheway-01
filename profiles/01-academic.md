@@ -1,10 +1,8 @@
 # Eunhwa Lee · 이은화
 
-M.S. student at **Chung-Ang University / HCSLAB**.
+M.S. student at **Chung-Ang University** · **[HCSLAB](https://hcslab.cau.ac.kr/)**.
 
 I work on **mobile sensing, signal processing, and visual-inertial localization**. My work combines MATLAB experiments, mobile software, and physical prototypes made with Fusion and Bambu Lab.
-
-[HCSLAB](https://hcslab.cau.ac.kr/) · [Email](mailto:eunhwa813@cau.ac.kr)
 
 ### Research
 
