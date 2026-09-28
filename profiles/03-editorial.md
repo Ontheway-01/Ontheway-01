@@ -4,11 +4,11 @@
 
 I connect **signal processing, mobile systems, and physical prototyping**. My research spans acoustic sensing, VIO-based localization, and communication between wearable devices.
 
-[Portfolio](https://github.com/Ontheway-01/portfolio) · [HCSLAB](https://hcslab.cau.ac.kr/) · [Email](mailto:eunhwa813@cau.ac.kr)
+[HCSLAB](https://hcslab.cau.ac.kr/) · [Email](mailto:eunhwa813@cau.ac.kr)
 
 ## 01 / Research
 
-**[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>
+**Smartphone heart-sound sensing**<br>
 Smartphone-based heart-sound acquisition and analysis, combining signal processing with mobile sensing prototypes.
 
 **Mobile localization**<br>

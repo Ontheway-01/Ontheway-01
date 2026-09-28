@@ -4,11 +4,11 @@ M.S. student at **Chung-Ang University / HCSLAB**.
 
 I work on **mobile sensing, signal processing, and visual-inertial localization**. My work combines MATLAB experiments, mobile software, and physical prototypes made with Fusion and Bambu Lab.
 
-[Portfolio](https://github.com/Ontheway-01/portfolio) · [HCSLAB](https://hcslab.cau.ac.kr/) · [Email](mailto:eunhwa813@cau.ac.kr)
+[HCSLAB](https://hcslab.cau.ac.kr/) · [Email](mailto:eunhwa813@cau.ac.kr)
 
 ### Research
 
-**[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)**<br>
+**Smartphone heart-sound sensing**<br>
 Smartphone-based heart-sound acquisition and analysis, combining signal processing with mobile sensing prototypes.
 
 **Mobile localization**<br>

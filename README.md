@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eunhwa 👋</h1>
 <p align="center"><b>Signal processing · VIO localization · Mobile & wearable systems</b><br>M.S. student at Chung-Ang University · HCSLAB</p>
-<p align="center"><a href="https://github.com/Ontheway-01/portfolio"><b>Research & Engineering Portfolio</b></a> &nbsp;·&nbsp; <a href="https://hcslab.cau.ac.kr/">Lab</a> &nbsp;·&nbsp; <a href="mailto:eunhwa813@cau.ac.kr">Email</a></p>
+<p align="center"><a href="https://hcslab.cau.ac.kr/">Lab</a> &nbsp;·&nbsp; <a href="mailto:eunhwa813@cau.ac.kr">Email</a></p>
 
 I turn sensing ideas into working systems — from **signal analysis and localization** to **physical prototypes and connected devices**.
 
@@ -8,7 +8,7 @@ I turn sensing ideas into working systems — from **signal analysis and localiz
 
 | Project | Research focus |
 | :--- | :--- |
-| **[Smartphone heart-sound sensing](https://github.com/Ontheway-01/portfolio/blob/main/projects/cardio.md)** | Smartphone-based heart-sound acquisition and analysis, combining signal processing with mobile sensing prototypes. |
+| **Smartphone heart-sound sensing** | Smartphone-based heart-sound acquisition and analysis, combining signal processing with mobile sensing prototypes. |
 | **Mobile localization** | Mobile position tracking using camera and motion-sensor data, with a focus on measurement consistency. |
 | **Wearable data collection** | Sensor-data collection across mobile and wearable devices, focusing on connectivity, time alignment, and coordinated recording. |
 
